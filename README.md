@@ -4,6 +4,9 @@
 
 Inspirado e ilusionado por la selección argentina de fútbol, creamos una función para calcular el desempate entre dos equipos en la fase de grupos.
 
+- [🔗 Criterios de Desempate - FIFA](https://www.fifa.com/fifaplus/es/articles/criterios-de-desempate-fase-de-grupos-copa-mundial-qatar-2022/)
+- [🔗 Desempate en la fase de grupos del Mundial de Qatar 2022 - TyC Sports](https://www.tycsports.com/mundial/criterios-desempate-fase-de-grupos-mundial-de-qatar-2022-como-puede-haber-sorteo-id477429.html)
+
 👨🏻‍🍳 Mirá [el video completo](https://www.youtube.com/watch?v=6ai4YNH3Y6I&list=PLfWyZ8S-XzeeqOgFJWlTU8D5m3wtDWHEX&index=2).
 
 👉 Hacé un [aporte](https://cafecito.app/lacocinadelcodigo) al canal.
